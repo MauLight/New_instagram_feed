@@ -1,0 +1,60 @@
+@import "./feed.css";
+
+.nav {
+    width: 100%;
+}
+
+#navback {
+    background-color: #f8f9fa;
+}
+
+.pusher {
+    width: 740px;
+}
+
+#dropmenuliner {
+    line-height: 35px;
+}
+
+a {
+    padding: 0%;
+}
+
+.textarea {
+    width: 100%;
+    border-radius: 5px;
+}
+
+#logout {
+    border-top: 1px black solid;
+}
+
+.layout .container {
+    padding: 10px;
+}
+.layout button {
+    background-color: white;
+}
+
+.photofeed img {
+    object-fit: cover;
+    object-position: 0px 5px;
+    width: 370px;
+    height: 300px;
+    margin-top: 5px;
+}
+
+.photofeed .container {
+    margin-bottom:100px;
+    margin-top:50px;
+}
+
+.footer {
+    text-align: center;
+    padding-top: 5px;
+    background-color: #f8f9fa;
+}
+
+.footer p {
+    padding: 10px;
+}
